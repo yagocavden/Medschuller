@@ -7,9 +7,8 @@ e automatizando a comunicação com os pacientes.
 - Automatizar o envio de lembretes via WhatsApp e e-mail.
 - Otimizar a ocupação da agenda dos médicos.
 ## Integrantes da Equipe
-- [Nome do Aluno 1] - RA: XXXXX
-- [Nome do Aluno 2] - RA: XXXXX
-- [Nome do Aluno 3] - RA: XXXXX
+- Yago Ribeiro Cavden - RA: 12526147772
+- Luiz Felipe Teixeira - RA: 12526157581
 ## Tecnologias Planejadas
 - **Protótipo:** Figma
 - **MVP NoCode:** Bubble
